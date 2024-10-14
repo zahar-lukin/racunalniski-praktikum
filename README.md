@@ -1,4 +1,4 @@
 # Računalniški praktikum
-Išči:Cltr + F
-Shrani:Cltr + S
-Razveljavi:Cltr + Z
+Išči: Cltr+F
+Shrani: Cltr+S
+Razveljavi:Cltr+Z
