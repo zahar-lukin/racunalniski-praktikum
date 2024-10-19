@@ -11,7 +11,10 @@
 - _Prilepi_ vsebino odložišča: Ctrl+V
 - Išči: Cltr+F
 - Shrani: Cltr+S
-- Razveljavi:Cltr+Z
+- Razveljavi: Cltr+Z
+- Zapiranje zavihka: Ctrl+W
+- Odpiranje novega zavihka: (Tab)Ctrl+T
+- Odpiranje novega okna: (New)Ctrl+N
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
 
