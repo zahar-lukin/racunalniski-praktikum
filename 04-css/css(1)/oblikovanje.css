@@ -44,15 +44,25 @@ h2 {
 }
 
 .slika {
-    font-size: 0.9em;       /* Velikost pisave */
-    width: 40%;             /* Širina */
-    text-align: left;       /* Poravnava besedila */
-    float: right;           /* Besedilo se ovija okoli slike */
-    margin-left: 2em;       /* Prostora levo od slike */
+    font-size: 0.9em;       
+    width: 40%;            
+    text-align: left;       
+    float: right;           
+    margin-left: 2em;       
 }
 .slika img {
-    width: 100%;            /* Širina slike 100% starša */
-    height: auto;           /* Ohranitev razmerja višine in širine */
+    width: 100%;            
+    height: auto;           
+}
+.slika p:last-child {
+    font-size: 0.8em; 
+    margin-top: 0; 
+}
+a::before {
+    content: "👉 "; 
+}
+.slika img {
+    border-radius: 50%; 
 }
 
 
